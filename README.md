@@ -17,5 +17,14 @@ The interface provided to the user should be a very user-friendly one and it sho
 5. A screen will be provided that displays the location of all other ATMs of same bank elsewhere in the city.
 6. A screen will be provided for the user to perform various transactions in user account.
 
-# Codacy Badge
+## Codacy Badge
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/41934f9e1744482cab4b7b3f2ed841d7)](https://www.codacy.com/gh/Gp-4/M1_ProjectGoal_-Type-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gp-4/M1_ProjectGoal_-Type-&amp;utm_campaign=Badge_Grade)
+
+|FOLDER|DESCRIPTION|
+|:-----|:----------|
+|0_Certificates|Sololearn in c, Linux, Hackerearth|
+|1_Requirements|Description, detailing requirements, SWOT analysis
+|2_Architecture|Behaviour and Structural diagram|
+|3_Implementation|Main code and its functions|
+|4_TestPlanAndOutput|HLR and LLR Tables|
+|5_Report|Report of the project|
