@@ -24,7 +24,7 @@ int main() {
 	printf("Enter you PIN number: ");
 	scanf("%c", &pin);
 	
-	if(len(pin) != 4) {
+	if(strlen(pin) != 4) {
 		printf("Entered wrong PIN number");
 	}
 	}
