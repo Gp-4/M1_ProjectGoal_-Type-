@@ -1,8 +1,6 @@
 ## High Level Test Plan
 
-https://user-images.githubusercontent.com/59721749/153708650-a682bf88-5a99-4e47-a1df-e63926c4ba1f.png
+![image](https://user-images.githubusercontent.com/98868331/153708920-d36915ca-9a20-4bc6-8595-3da2238e9203.png)
 
 
-## Low Level Test Plan
 
-https://user-images.githubusercontent.com/59721749/153708683-2fbc2cee-a990-481c-97bf-6bcf27505d3f.png
