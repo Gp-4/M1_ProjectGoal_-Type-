@@ -45,4 +45,3 @@ The interface provided to the user should be a very user-friendly one and it sho
 |3_Implementation|Main code and its functions|
 |4_TestPlanAndOutput|HLR and LLR Tables|
 |5_Report|Report of the project|
->>>>>>> 48ee03cf799f0b02f38582e35d569ee1a69b6b8f
