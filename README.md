@@ -34,6 +34,11 @@ The interface provided to the user should be a very user-friendly one and it sho
 5. A screen will be provided that displays the location of all other ATMs of same bank elsewhere in the city.
 6. A screen will be provided for the user to perform various transactions in user account.
 
+## Codiga Badge
+![image](https://user-images.githubusercontent.com/98868331/156333247-67b389c9-99fd-48e5-ab5d-edee44c3f491.png)
+![image](https://user-images.githubusercontent.com/98868331/156333290-2b88dc81-54cc-4d64-a197-7ecffcfea8ba.png)
+
+
 ## Codacy Badge
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/41934f9e1744482cab4b7b3f2ed841d7)](https://www.codacy.com/gh/Gp-4/M1_ProjectGoal_-Type-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gp-4/M1_ProjectGoal_-Type-&amp;utm_campaign=Badge_Grade)
 
