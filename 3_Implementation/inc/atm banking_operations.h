@@ -1,7 +1,7 @@
 /**
- * @file atm banking_operations.h
+ * @file ATM Banking_operations.h
  * @author Guruprakash
- * @brief Header file for atm banking application with Arithmetic operations
+ * @brief Header file for ATM Banking application with Arithmetic operations
  *
  */
 
@@ -144,4 +144,4 @@ void errorMessage() {;
     printf("You selected invalid number\n");
 }
 
-#endif  /* #define __ATM BANKING_OPERATIONS_H__ */
+#endif  /* #define __ATM Banking_OPERATIONS_H__ */
