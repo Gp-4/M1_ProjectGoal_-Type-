@@ -1,0 +1,21 @@
+uild action for Windows OS
+Add the below content into the .yml file and commit to repository
+name: Windows C/C++ CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: build
+      run: gcc main.c -o main.exe
+    - name: Run
+      run: .\main.exe
